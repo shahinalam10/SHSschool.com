@@ -415,10 +415,8 @@
 }
 /*4 colouumn*/
 .column {
-  margin: 3px;
-  float: left;
+  margin-left: 3px;
   width: 24.5%;
-  padding: 10px;
   height: 400px; /* Should be removed. Only for demonstration */
   color: white;
 }
