@@ -1,1 +1,1 @@
-# SHSSchool.com
+# SHSSchool
